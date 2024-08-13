@@ -5,7 +5,7 @@
 ## Overview
 
 - A web application that allows users to search for GitHub users and view their top projects
-- This project is built using TypeScript, Node.js, and React
+- This project is built using TypeScript, Node.js and React
 
 <p align="center">
   <img src="img/GitHub_Finder_Image.png" alt="GitHub Finder Image" />
